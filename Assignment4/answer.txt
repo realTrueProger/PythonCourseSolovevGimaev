@@ -1,0 +1,7 @@
+4.
+a) Why the formula of estimating program length uses logarithm to base 2? Why not something else?
+The effective difference in a program between 1 and 2 operators is larger than the 101 to 102 differences. Logarithms were selected to model the decreasing value.
+
+b) Why base 2?
+I suggest it was Halstead's own preference. If he had chosen something else like base 10 it would still produce a model comparing the length of two programs roughly the same way. When it does, it will only generate different numbers for each.
+Moreover, we are operating in the context of information. Logarithm to base 2 gives us a number representation in bits. Within the computer, all the information is represented as bits.

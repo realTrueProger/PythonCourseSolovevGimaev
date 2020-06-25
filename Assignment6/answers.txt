@@ -1,0 +1,29 @@
+
+(a) What is algebraic expression? How does it differs from mathematical formula?
+
+An algebraic expression is an expression built up from integer constants, variables, and the algebraic operations (addition, subtraction, multiplication, division and exponentiation by an exponent that is a rational number). And the formula is the way to express information
+symbolically. So the formulas uses math expression to deliver some information, but we can say that in most it is the same things.
+
+(b) What is term rewriting? Is it the same as symbolic computation?
+
+Rewriting is a method to replace something in the formula with some other data. So yes, we think it is the same thing.
+
+(c) What is symbolic computation comparing with numerical computation?
+
+Numerical use only numbers, and in symbolic the symbola are added to the expression.
+
+(d) What is the difference between evaluation and interpretation (in math sense)?
+
+Evaluation means the calculation of the value of.
+Interpretation means giving a meaning (value) to mathematical expressions like symbols, formulas, and etc. 
+
+(e) What is lazy evaluation comparing with eager evaluation?
+
+Eager evaluation means that the expressions is being evaluated as soon as it is bound to a variable.
+Lazy evaluation means delay of the evaluation of an expression right by the time before its value is required  and that additionally avoids repeated evaluations
+
+
+(f) How functional programming related to algebra systems?
+
+Functional programming is a branch of discrete mathematics and a programming paradigm. The calculation process is interpreted as calculating the values of functions in the mathematical sense.
+
